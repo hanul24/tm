@@ -1,6 +1,6 @@
-Teachble Machine Image project
+# Teachble Machine Image project
 ===============================
-*1226 최한울
++ [1226 최한울] (https://github.com/hanul24/tm/edit/main/README.md)
 ## 주제: 
 ------------------
 
