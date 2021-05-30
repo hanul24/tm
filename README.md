@@ -4,10 +4,13 @@
 ## 보고서
 ### 주제: 웃긴 인강 선생님들 닮은 얼굴 찾기
 ------------------
-|인강 선생님||
+|인강 선생님|수집 이미지 개수|
 |--|--|
-|한석원, 정승재|
+|한석원 선생님|74|
+|정승제 선생님|45|
+|download all image 활용|O|
 
+> [Teaching Machine](https://teachablemachine.withgoogle.com/models/9B_vudN0p/)
 
 
 
