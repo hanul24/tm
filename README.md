@@ -15,6 +15,7 @@
 >>> ![한석원](https://lh3.googleusercontent.com/proxy/Dl5pEwcCj8xOQg8Kya4p-EcmDbvWINdZgXmDns5wD9GFdBQtiq42GF0K9pLMLdiZ_MJ7Vhi6mTvdPUTM19TqQybxalyjabRkkTg5NXhJNuNNhf4NSzM2RCPrrS0U3r9oY0xHGJ1RZvWk0PKuhXzmTkbPb78y4i9vhB9ILorsRa2t9bKMm7oPF1MtCHCrfUVkm1dUVLsJifcUvFYRD1bcPv9Qd1J-7a_5bOCZKf-j0TKfmMW4ytbW2J5JeTGRA3wC58USQ_1jRJWh6mpSZTXaY3c)
 >>>> 여러분은 어떤 선생님과 닮았을까요?
 
++ 주제를 웃긴 인강 선생님들 닮은 얼굴 찾기를 한 이유는 우리가 쉽게 접하고 알 수 있는 사람들이기 때문이다.
 
 
 
