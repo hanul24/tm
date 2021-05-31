@@ -13,7 +13,7 @@
 > [Teaching Machine](https://teachablemachine.withgoogle.com/models/9B_vudN0p/)
 >> 이미지 프로젝트 선택
 
-![한석원](https://lh3.googleusercontent.com/proxy/j1zgSDwShgX078rHomZ5OSHJLtlT0Y4f7njS8c9yeSui9SG7_siJ0gsP5Px9v4DorJHpCF190r5fkrLWXIG25pzpui1ZZH68JLqB5phxxoB3HVsysUiDaawrc6okaK9iNeYxtC8c6ON-RoGoPstsGJlQlcadzlVyoQtTVPonVqQvrcXVVowcPDgWE2uDq4p1z9p9zuz9qTnCSjWxhHdbVRr2s6ILfXXFEjd0CB5xxFjQ8dipPnuwzA03wFlusJsF6tEIkv8DP2jvX3PQ7tJoi7o)
+![깃허브](https://miro.medium.com/max/636/1*1OKmA2EdGln8O6RCVORgGg.png)
 
 
 
