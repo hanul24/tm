@@ -11,9 +11,9 @@
 |download all image 활용|O|
 
 > [Teaching Machine](https://teachablemachine.withgoogle.com/models/9B_vudN0p/)
->> 이미지 프로젝트 선택
-
-![깃허브](https://miro.medium.com/max/636/1*1OKmA2EdGln8O6RCVORgGg.png)
+>> 이미지 
+>>> ![한석원]()
+>>> ![정승재]()
 
 
 
