@@ -13,7 +13,7 @@
 > [Teaching Machine](https://teachablemachine.withgoogle.com/models/9B_vudN0p/)
 >> 이미지
 >>> 한석원 선생님
->>>> ![한석원](https://lh3.googleusercontent.com/proxy/Dl5pEwcCj8xOQg8Kya4p-EcmDbvWINdZgXmDns5wD9GFdBQtiq42GF0K9pLMLdiZ_MJ7Vhi6mTvdPUTM19TqQybxalyjabRkkTg5NXhJNuNNhf4NSzM2RCPrrS0U3r9oY0xHGJ1RZvWk0PKuhXzmTkbPb78y4i9vhB9ILorsRa2t9bKMm7oPF1MtCHCrfUVkm1dUVLsJifcUvFYRD1bcPv9Qd1J-7a_5bOCZKf-j0TKfmMW4ytbW2J5JeTGRA3wC58USQ_1jRJWh6mpSZTXaY3c) 정승제 
+>>>> ![한석원](https://lh3.googleusercontent.com/proxy/Dl5pEwcCj8xOQg8Kya4p-EcmDbvWINdZgXmDns5wD9GFdBQtiq42GF0K9pLMLdiZ_MJ7Vhi6mTvdPUTM19TqQybxalyjabRkkTg5NXhJNuNNhf4NSzM2RCPrrS0U3r9oY0xHGJ1RZvWk0PKuhXzmTkbPb78y4i9vhB9ILorsRa2t9bKMm7oPF1MtCHCrfUVkm1dUVLsJifcUvFYRD1bcPv9Qd1J-7a_5bOCZKf-j0TKfmMW4ytbW2J5JeTGRA3wC58USQ_1jRJWh6mpSZTXaY3c) 
 >>>> ![정승제](https://t1.daumcdn.net/cfile/tistory/998C18405E0C4AD42F)
 >>>>> 여러분은 어떤 선생님과 닮았을까요?
 
